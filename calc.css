@@ -1,0 +1,36 @@
+.container{
+    border: 2px;
+   
+    padding: 30px;
+   width: 259px;
+   background-color: #716767;
+border-radius: 25px;
+   
+}
+
+h1{
+    font-weight: bold;
+    font-size: 50px;
+    color:rgb(24, 103, 103);
+}
+input{
+    width: 250px;
+    height:50px;
+    border-radius: 10%;
+    font-size: 50px;
+    text-align: right;
+    font-weight: bold;
+    border: 8px inset;
+  
+  
+}
+button{
+    width:62px;
+    height: 50px;
+    border-radius: 100px;
+    /* border: 2px gray outset; */
+    /* padding: 2px; */
+    margin-top: 9px;
+    font-size: large;
+    
+}
